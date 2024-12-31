@@ -8,8 +8,6 @@ Os exercícios abordam diversos conceitos e práticas de desenvolvimento front-e
 
 ## Objetivo
 
-O principal objetivo desses exercícios é aplicar os conhecimentos adquiridos durante o estágio para criar soluções front-end que atendem às necessidades de usabilidade e performance dos pr
-
-ojetos.
+O principal objetivo desses exercícios é aplicar os conhecimentos adquiridos durante o estágio para criar soluções front-end que atendem às necessidades de usabilidade e performance dos projetos.
 
 
